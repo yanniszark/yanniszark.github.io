@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yannis Zarkadas"
+title: "About me"
 excerpt: "Yannis Zarkadas"
 author_profile: true
 redirect_from:
