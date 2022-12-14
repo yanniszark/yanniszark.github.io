@@ -13,6 +13,11 @@ professor [Asaf Cidon](https://www.asafcidon.com/). Check out our
 [XRP project](https://github.com/xrp-project/XRP/blob/main/XRP%20Draft.pdf)
 which accelerates storage accesses using eBPF.
 
+Current projects:
+- Accelerating NVMEoF with XRP.
+- Using eBPF for configurable page cache eviction.
+- Accelerating a networked key-value store using eBPF.
+
 Previously, I was a software engineer at [Arrikto](https://arrikto.com/) working
 on cloud-native machine learning infrastructure
 ([Kubeflow](http://kubeflow.org/)). I also created the
