@@ -25,3 +25,11 @@ on cloud-native machine learning infrastructure
 [Scylla Operator](https://github.com/scylladb/scylla-operator/), which was
 adopted and continued by the company as their official solution to deploy on
 Kubernetes.
+
+
+## News
+
+- <span style="color:green">[Paper]</span> [BPF-oF: Storage Function Pushdown Over the Network](https://arxiv.org/abs/2312.06808) is out!
+- <span style="color:green">[Internship]</span> I am joining Google as a student researcher, working with SRG and the kernel scheduling team.
+- <span style="color:purple">[Award]</span> XRP receives Best Paper Award in OSDI 2022!
+- <span style="color:green">[Paper]</span> [XRP: In-Kernel Storage Functions with eBPF](https://www.usenix.org/conference/osdi22/presentation/zhong) is accepted in OSDI 2022.
