@@ -8,15 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-CS PhD student at Columbia University working on eBPF applications with
-professor [Asaf Cidon](https://www.asafcidon.com/). Check out our
-[XRP project](https://github.com/xrp-project/XRP/blob/main/XRP%20Draft.pdf)
-which accelerates storage accesses using eBPF.
+I'm a CS PhD student at Columbia University working with [Asaf Cidon](https://www.asafcidon.com/).
+I am interested in systems, especially performance optimizations.
 
 Current projects:
-- Accelerating NVMEoF with XRP.
-- Using eBPF for configurable page cache eviction.
-- Accelerating a networked key-value store using eBPF.
+- [With Google] New low-level TPU profiler for Large Language Models.
+- Using eBPF for configurable page cache eviction in the Linux kernel.
+- Async replication of a sharded database with prefix consistency guarantees.
+
 
 Previously, I was a software engineer at [Arrikto](https://arrikto.com/) working
 on cloud-native machine learning infrastructure
@@ -29,6 +28,7 @@ Kubernetes.
 
 ## News
 
+- <span style="color:green">[Internship]</span> I am joining Google as a student researcher, working on TPU performance optimizations.
 - <span style="color:green">[Paper]</span> [BPF-oF: Storage Function Pushdown Over the Network](https://arxiv.org/abs/2312.06808) is out!
 - <span style="color:green">[Internship]</span> I am joining Google as a student researcher, working with SRG and the kernel scheduling team.
 - <span style="color:purple">[Award]</span> XRP receives Best Paper Award in OSDI 2022!
